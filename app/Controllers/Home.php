@@ -6,7 +6,7 @@ class Home extends BaseController
 {
     public function index(): string
     {
-        return view('daftar');
+        return view('ppdb_mars');
     }
     public function hello(): string
     {
